@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627887847407",
+    "project_id": "halo-2b9ba",
+    "storage_bucket": "halo-2b9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627887847407:android:a0757c71a4947761e2281a",
+        "android_client_info": {
+          "package_name": "com.example.healOn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627887847407-3rj5v3rnk2rr9cmo0eqbsg6mvs4hrk4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWPv0bxGtAxRe8JSzNw81Bk-dU7ddq9QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627887847407-3rj5v3rnk2rr9cmo0eqbsg6mvs4hrk4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
